@@ -2,7 +2,7 @@ import { FaDownload, FaPhone } from 'react-icons/fa';
 
 const Banner = () => {
   return (
-    <div className="  p-8 flex items-center justify-between text-center mt-2 mb-2 text-white">
+    <div className="  sm:items-center mt-20 sm:flex-row  md:flex lg:flex items-center lg:justify-between text-center mt-2 mb-2 text-white">
       <div className=" max-w-md ">
         <h3 className=" text-3xl  mb-2">Hi, I am</h3>
         <h1 className=" text-5xl font-bold my-2">Seyam</h1>
@@ -18,7 +18,7 @@ const Banner = () => {
           </button>
         </div>
       </div>
-      <img className="profile-picture w-72 rounded-full" src="https://i.ibb.co/1bcc9vN/seyam-removebg-preview.png" alt="Seyam's profile" />
+      <img className="profile-picture w-72 rounded-full sm:ml-12 md:mr-12 lg:mr-16 " src="https://i.ibb.co/1bcc9vN/seyam-removebg-preview.png" alt="Seyam's profile" />
     </div>
   );
 };
