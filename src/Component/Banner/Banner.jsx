@@ -11,10 +11,11 @@ const Banner = () => {
         <h1 className="text-4xl font-bold my-2">Seyam</h1>
         <p className="mb-4">Crafting Digital Elegance: Join Me in Building Your Responsive and Unique Website.</p>
         <div className="flex flex-col space-y-4">
-          <button className="btn btn-primary flex items-center space-x-2">
+         <a href="https://drive.google.com/file/d/1SznKKI-IfsWK1vATVSUc71swn_fKhQJR/view?usp=drive_link"> <button className="btn btn-primary flex items-center space-x-2">
             <FaDownload className="text-white" />
             Download CV
           </button>
+          </a>
           <button className="btn btn-secondary flex items-center space-x-2">
             <FaPhone className="text-white" />
             Contact

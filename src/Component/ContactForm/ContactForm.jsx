@@ -17,6 +17,7 @@ const ContactForm = () => {
 
   return (
     <div id='contact'>
+      <h2 className='text-white text-center font-bold text-4xl mt-4'> Contact</h2>
     <form  onSubmit={sendEmail} className="max-w-md mx-auto mt-10 p-6 bg-gradient-to-b from-[#AA076B] to-[#AA076B] via-[#61045F]  rounded-md shadow-md">
       <label className="block text-white text-sm font-bold mb-2" htmlFor="name">
         Name
