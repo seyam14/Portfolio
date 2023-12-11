@@ -16,7 +16,7 @@ export default class MySkillsSection extends Component {
       cssEase: "linear"
     };
     return (
-      <div id='skills'>
+      <div className="mx-10" id='skills'>
         <h2  className="text-center font-bold text-white text-4xl m-4">Skills</h2>
         <Slider {...settings}>
           <div>
