@@ -6,7 +6,7 @@ const Projects = () => {
     return (
         <div id='projects' className="p-4 sm:p-6 md:p-8 lg:p-10 ">
             <h1 className="text-white text-center text-4xl m-6 font-bold">Projects</h1>
-            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3 ">
+            <div className="grid  gap-6 md:grid-cols-2 lg:grid-cols-3 ">
                 <div className="card w-96 bg-gradient-to-b from-[#AA076B] to-[#AA076B] via-[#61045F] text-white shadow-xl p-4">
                     <figure><Silder1></Silder1></figure>
                     <div className="card-body">
