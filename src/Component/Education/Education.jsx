@@ -1,6 +1,7 @@
 
 
 const Education = () => {
+  
     return (
         <div id="experience & education">
          <h1 className="text-3xl text-white text-center font-semibold mb-4">Experience & Education </h1>
