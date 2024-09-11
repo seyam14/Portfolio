@@ -9,7 +9,7 @@ const Banner = () => {
         <h1 className=" text-5xl font-bold my-2">Seyam</h1>
         <p className=" mb-4">Crafting Digital Elegance: Join Me in Building Your Responsive and Unique Website.</p>
         <div className="flex justify-center space-x-4">
-          <a href="https://drive.google.com/file/d/1u2WXl-7k1L8UhO2AgnHopZDpU97aoyC9/view?usp=drive_link"><button className="btn btn-primary flex items-center space-x-2">
+          <a href="https://drive.google.com/file/d/1v_dm93HlYo6soKQKZVBJLP4b_SsB5uJ3/view?usp=drive_link"><button className="btn btn-primary flex items-center space-x-2">
             <FaDownload className="text-white" />
             Download CV
           </button> </a>

@@ -18,7 +18,7 @@ const AboutMe = () => {
         </div>
         <div className="mb-4">
           <h4 className="font-semibold">Phone Number</h4>
-          <p>(+880) 1767649313</p>
+          <p>(+880) 1621047679</p>
         </div>
         <div className="mb-4">
           <h4 className="font-semibold">From:</h4>

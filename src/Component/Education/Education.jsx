@@ -9,9 +9,9 @@ const Education = () => {
           <div className="bg-gradient-to-b from-[#AA076B] to-[#AA076B] via-[#61045F] text-white p-8 rounded shadow-md">
             <div className="mb-4">
               <h2 className="text-xl font-semibold mb-2">Shanto-Mariam University of Creative and Technology</h2>
-              <p>Bachelor of Science in Computer Science</p>
-              <p>4th Year (Running student)</p>
-              <p>Average CGPA: 3.50</p>
+              <p>Bachelor of Science in Computer Science and Engineering</p>
+              <p>Graduated year:2024</p>
+              <p>CGPA: 3.73</p>
             </div>
           </div>
     

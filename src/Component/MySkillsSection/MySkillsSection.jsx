@@ -31,9 +31,9 @@ export default class MySkillsSection extends Component {
           <div>
              <img className="w-20 h-20" src="https://i.ibb.co/qrVfd70/nodejs.png" alt="" />
           </div>
-          <div>
+          {/* <div>
             <img className="w-20 h-20" src="https://i.ibb.co/QppTBKs/express-js.png" alt="" />
-          </div>
+          </div> */}
           <div>
              <img className="w-20 h-20" src="https://i.ibb.co/jvvqh9d/mongodb.png" alt="" />
           </div>
