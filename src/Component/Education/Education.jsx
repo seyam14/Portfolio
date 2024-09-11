@@ -2,7 +2,7 @@
 
 const Education = () => {
     return (
-        <div id="education">
+        <div id="experience & education">
          <h1 className="text-3xl text-white text-center font-semibold mb-4">Experience & Education </h1>
         <div className="bg-gradient-to-b from-[#AA076B] to-[#AA076B] via-[#61045F] min-h-screen flex items-center justify-center">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-screen-lg mx-auto">

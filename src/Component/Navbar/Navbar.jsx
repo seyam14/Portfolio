@@ -35,7 +35,7 @@ const Navbar = () => {
       offset={50} 
       duration={500} 
       className="font-bold" 
-       to='education'>Education </Link>
+       to='experience & education'>Experience & Education </Link>
     </li>
     <li>
        <Link spy={true} 
