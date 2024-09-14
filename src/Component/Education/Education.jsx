@@ -13,9 +13,15 @@ const Education = () => {
             <h2 className="text-blue-200 text-2xl m-2">Experierence</h2>
           </div>
             <div className="mb-4">
+              <h2 className="text-xl font-semibold mb-2">WeDel Technologies</h2>
+              <p>Front-end Web developer</p>
+              <p>Remote</p>
+              <p>1 July 2024 - Present</p>
+            </div>
+            <div className="mb-4">
               <h2 className="text-xl font-semibold mb-2">DevMatrix</h2>
-              <p>Internship</p>
-              <p>Junior Front-end Web developer</p>
+              <p>Junior Front-end Web developer (Internship)</p>
+              <p>Hybrid</p>
               <p>23 March 2024 -07 June 2024</p>
             </div>
             </div>
