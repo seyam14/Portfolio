@@ -17,7 +17,7 @@ export default class MySkillsSection extends Component {
     };
     return (
       <div className="mx-10" id='skills'>
-        <h2  className="text-center font-bold text-white text-4xl m-4">Skills</h2>
+        <h2  className="text-center font-bold  text-4xl m-4">Skills</h2>
         <Slider {...settings}>
           <div>
             <img className="w-20 h-20" src="https://i.ibb.co/jfPvwbT/react.png" alt="" />

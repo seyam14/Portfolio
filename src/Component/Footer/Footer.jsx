@@ -3,8 +3,8 @@ import { FaFacebookSquare } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="footer footer-center p-10 bg-gradient-to-b from-[#AA076B] to-[#AA076B] via-[#61045F] rounded ">
-      <nav className="grid grid-flow-col gap-4 text-white">
+    <footer className="footer footer-center  mt-6 p-10 bg-slate-200 rounded ">
+      <nav className="grid grid-flow-col gap-4 ">
         <a className="link link-hover">Projects</a>
         <a className="link link-hover">About</a>
         <a className="link link-hover">Contact</a>
@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
       </nav>
       <aside>
-        <p className="text-white">Copyright © 2023 - All rights reserved by Seyam</p>
+        <p >Copyright © 2023 - All rights reserved by Seyam</p>
       </aside>
     </footer>
   );

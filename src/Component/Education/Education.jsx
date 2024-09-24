@@ -4,13 +4,13 @@ const Education = () => {
   
     return (
         <div id="experience & education">
-         <h1 className="text-3xl text-white text-center font-semibold mb-4">Experience & Education </h1>
-        <div className="bg-gradient-to-b from-[#AA076B] to-[#AA076B] via-[#61045F] min-h-screen flex items-center justify-center">
+         <h1 className="text-3xl  text-center font-semibold mb-4">Experience & Education </h1>
+        <div className=" min-h-screen flex items-center justify-center">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-screen-lg mx-auto">
-          <div className="bg-gradient-to-b from-[#AA076B] to-[#AA076B] via-[#61045F] text-white p-8 rounded shadow-md">
+          <div className="bg-slate-200 p-8 rounded shadow-md">
            <div>
            <div className="text-center font-bold">
-            <h2 className="text-blue-200 text-2xl m-2">Experierence</h2>
+            <h2 className="text-blue-500 text-2xl m-2">Experience</h2>
           </div>
             <div className="mb-4">
               <h2 className="text-xl font-semibold mb-2">WeDel Technologies</h2>
@@ -27,10 +27,10 @@ const Education = () => {
             </div>
           </div>
     
-          <div className="bg-gradient-to-b from-[#AA076B] to-[#AA076B] via-[#61045F] text-white p-8 rounded shadow-md mt-4 md:mt-0">
+          <div className="bg-slate-200 p-8 rounded shadow-md mt-4 md:mt-0">
          <div >
           <div className="text-center font-bold">
-            <h2 className="text-blue-200 text-2xl m-2">Education</h2>
+            <h2 className="text-blue-500 text-2xl m-2">Education</h2>
           </div>
           <div className="mb-4">
               <h2 className="text-xl font-semibold mb-2">Shanto-Mariam University of Creative and Technology</h2>

@@ -3,7 +3,7 @@ import { Link } from 'react-scroll';
 
 const Banner = () => {
   return (
-    <div className="  sm:items-center mt-20 sm:flex-row  md:flex lg:flex items-center lg:justify-between text-center mt-2 mb-2 text-white">
+    <div className=" sm:items-center mt-20 sm:flex-row  md:flex lg:flex items-center lg:justify-between text-center mt-2 mb-2 ">
       <div className=" max-w-md ">
         <h3 className=" text-3xl  mb-2">Hi, I am</h3>
         <h1 className=" text-5xl font-bold my-2">Seyam</h1>
